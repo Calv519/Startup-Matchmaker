@@ -76,8 +76,6 @@ a {
 	background-color: rgba(211,211,211, .5);
 	padding: 20px;
 	box-sizing: border-box;
-
-
 }
 
 .bgimg {
@@ -121,7 +119,6 @@ a {
 	float: left;
 	font-size: 20px;
 	margin: 100px 70px 100px 0px;
-
 }
 
 .profile, .developer {
@@ -162,7 +159,6 @@ section a {
 
 	width: 220px;
 	border-radius: 5px;
-
 }
 
 footer {
@@ -176,6 +172,4 @@ footer p {
 	position: relative;
 	top: 25px;
 	margin: 0 25px;
-
-
 }
